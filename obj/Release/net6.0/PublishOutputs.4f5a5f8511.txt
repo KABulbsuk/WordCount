@@ -1,0 +1,5 @@
+C:\Users\86158\source\repos\WordCount\bin\Release\net6.0\publish\WordCount.exe
+C:\Users\86158\source\repos\WordCount\bin\Release\net6.0\publish\WordCount.dll
+C:\Users\86158\source\repos\WordCount\bin\Release\net6.0\publish\WordCount.deps.json
+C:\Users\86158\source\repos\WordCount\bin\Release\net6.0\publish\WordCount.runtimeconfig.json
+C:\Users\86158\source\repos\WordCount\bin\Release\net6.0\publish\WordCount.pdb
